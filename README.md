@@ -1,5 +1,5 @@
-# IASC-2P02
+# IASC-2P02 / Gavin Kannangara 
 
-hello world 
+## About me 
 
-hello there!
+hello world! 
