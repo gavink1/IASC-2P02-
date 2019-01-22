@@ -5,3 +5,7 @@
 hello world! 
 
 ![](images/download.jpg) 
+
+## Blog post 
+
+lorem ipsum dolo sit amet... {continue reading}(blog)
