@@ -2,6 +2,8 @@
 
 ## About me 
 
+Hi my name is Gavin Kannangara, and I am a Interactive arts and science student at Brock University. 
+
 hello world! 
 
 ![](images/download.jpg) 
