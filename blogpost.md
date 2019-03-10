@@ -14,14 +14,10 @@ As digital humanists, we are constantly making new things and looking for new wa
 
 In conclusion, we as Digital Humanists should be striving to get out there and conduct research in different ways and at the same time acknowledge the other forms of studies that exist and take into consideration the research and data that is being presented. The traits that make a person a Digital Humanist is a person who interprets, collaborate and make new things while out in the field trying to create their own interpretive data. 
 
-
-<iframe style='width: 580px; height: 463px;'src='//voyant-tools.org/?corpus=d82b3f9b36c78f0adb00f46c8e3a9719&visible=55&view=Cirrus'></iframe>
--->
+<iframe style='width: 580px; height: 463px;' src='https://voyant-tools.org/?corpus=d82b3f9b36c78f0adb00f46c8e3a9719&visible=55&view=Cirrus'></iframe>
 
 Work cited 
 
 “Digital Humanities: Defining Digital Humanities.” LibGuides, guides.library.duke.edu/digital_humanities.
 
 Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” A New Companion to Digital Humanities, 2015, pp. 238–250., doi:10.1002/9781118680605.ch17.
-
-
