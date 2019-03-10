@@ -14,10 +14,6 @@ https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
 Ramsay and Drucker's critique of Moretti should be taken to heart by digital humanists: any reliance on externally-produced data sets should be abolished in the field. Instead, each digital humanist will show the interpretive methods used to produce their unique data sets, and no two scholars will ever use the same data to conduct their research. Doing so will allow digital scholarship to fully embrace its humanities background, foregrounding subjective experience above all else. Established datasets are for scientists, and they have no place in humanities research. All data should be interpretively created.
 
-Gavin Kannangara
-IASC 2P02
-March 10th 2019 
-
 digital humanities vs everyone
 
 Digital humanists are naturally encouraged to interpretively create data sets while out in the field doing research but it does not mean that established datasets are to be completely disregarded. Digital humanist should create their own data and compare it alongside established datasets and compare the data that was collected by themselves to what other researchers find to see how different media studies view a certain case of study. The reason why the digital humanities still to this day cannot be categorized or labeled is due to the fact that it holds people that come together from different types of media studies and that is why it cannot be categorized. What makes the digital humanities are the fact that we interpret, collaborate and make new things and that is what makes up a group of digital humanists who they are. 
