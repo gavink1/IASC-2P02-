@@ -34,4 +34,8 @@ Work cited
 
 Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” A New Companion to Digital Humanities, 2015, pp. 238–250., doi:10.1002/9781118680605.ch17.
 
+## solo presentation 
+
+[title of presentaion](reveal/index.html)
+
 
