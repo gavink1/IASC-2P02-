@@ -74,10 +74,10 @@ Lack of detail 
 ![](images/screenshot2.jpg)
 
 
-Project description
+Project description - 
 Our project was to look into a tool called archives unleashed which is a web recorder that keeps track of all the websites some one may visit throughout the course of a day and then puts that information/data into a visual format which then some one could use to see patterns of someones work flow or browsing patterns throughout the day. We decided to research this data visualization projects simply because we thought it sounded cool and we wanted to see if we could actually find cool patterns in our own web browsing that we otherwise wouldn’t notice or find.  Unfortunately we came to find out that this app requires a paid membership and a request and permission in order to be able to actually use the tool so we were only able to get baseline information about how using this tool would actually look. 
 
-Collaboration statement 
+Collaboration statement - 
 I thought working with a team for this project was very helpful especially because we had to figure out how one specific data visualization tool would have worked. Working in a group really helped because we were able to figure things out as a group and since I was a part of a group of four we we able to use our different styles of thinking and different ways of problem solving to get the most information that we could get out of the data visualization tool we had chosen to research. I thinking working in a group really enriches my academic thinking because I get to see how different people look at different problems and seeing that gives me insight. Being able to learn from others especially your own classmates or teammates is really cool and allows you to grow as a team member.  The one thing I find that is the most important when working with a team is communication. If your team does not communicate then none of the work will line up and everything will be all over the place. The way me and my team kept in touch while trying to get this project done was through discord which is a online chat/voice call app. We chose this application simply because all of our group members had this application and used it on a pretty regular basis which made it really easy to keep in touch. 
 
 
