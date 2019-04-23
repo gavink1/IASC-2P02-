@@ -1,10 +1,8 @@
 # IASC-2P02 / Gavin Kannangara 
 
 ## About me 
-
-Hi my name is Gavin Kannangara, and I am a Interactive arts and science student at Brock University. 
-
-hello world! 
+My name is Gavin Kannangara and I am an interactive arts and science student in second year going into third year. One specific research area/ interest of mine is data visualization because I am personally a better visual learner so I would love to focus on just taking data and putting it into some sort of digital visualization system. My current portfolio shows that I want to focus on Data visualization because as of right now I have done a research paper and a group project based around data gathered around that was in a digitally visualized format. For my essay I used data visualization tools like Voyant which allows you to take a piece of text and then input it into the tool and analyze it for world patterns, commons words and much more.  In the future I only hope to incorporate more and more data in a visual format no matter what project I may be working on. I personally feel like when I use data visualization tools my work is more organized and I myself am able to make a better argument or statement in my project. I find that data visualization also kind of helps me get my thoughts together which leads to me being more organized when trying to work on a project or essay.  
+ 
 
 ![](images/download.jpg) 
 
