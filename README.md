@@ -84,6 +84,6 @@ I thought working with a team for this project was very helpful especially becau
 
 ## solo presentation 
 
-[title of presentaion](reveal/index.html)
+[Cyborgs and cyberpunk technology](reveal/index.html)
 
 
