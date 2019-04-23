@@ -40,6 +40,35 @@ Work cited
 
 Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” A New Companion to Digital Humanities, 2015, pp. 238–250., doi:10.1002/9781118680605.ch17.
 
+## collaborative project 
+
+
+Show us your initial research output. This could be a digital map, a chart or graph of data you’ve gathered using the resource, a data visualization, or something else entirely. What did you create/discover using the tool? 
+Paid subscription  
+No coding is needed to be able to use this tool.   
+Webrecorder  
+Input data collected via Webrecorder into Archives unleashed 
+Digital map that is made in Unleased can be used to see patterns while browsing. 
+Discuss your ability to make multimodal arguments using the tool. What ideas, thoughts, concepts, or interpretations were you able to express in a multimodal form? Was there anything 	you couldn’t express?
+ MULTIMODAL VS BASIC GRAPHS 
+Multimodal 
+
+Features 
+Able to see more patterns 
+More 3 dimensional patterns. 
+
+Disadvantages 
+Lack of testing / lack of accessibility 
+Multiple accounts are needed   
+Basic graphs/pie charts / scatter plots
+
+PROS
+Cleaner and less cluttered which means easier to understand  
+
+CONS 
+You may only be able to see one or two different types of information 
+Lack of detail 
+
 ## solo presentation 
 
 [title of presentaion](reveal/index.html)
