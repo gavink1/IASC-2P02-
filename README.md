@@ -7,6 +7,10 @@ My name is Gavin Kannangara and I am an interactive arts and science student in 
 ![](images/download.jpg) 
 
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+## Abstract
+
+Thesis: The reason why the digital humanities still to this day cannot be categorized or labeled is due to the fact that it holds people that come together from different types of media studies and that is why it cannot be categorized. What makes the digital humanities are the fact that we interpret, collaborate and make new things and that is what makes up a group of digital humanists who they are. 
+My approach for this was to argue that we as Digital humanist can’t just use our own data to conclude our research. Our job as a digital humanist is to take and make our own data and then make a concluding remark on some research.  My research overall could have been done better but I still did find some very interesting stuff which would eventually help me prove my point. I found statements made by places like Duke University which I really did useful and was able to implement into my essay quiet well. This also proved to me that this was a topic of interest not only for me but for a lot people that were wanted answers as to what makes up the DH. Throughout the year I was really confused as to what the digital humanities really consisted of and who can be considered a digital humanist, but after having taken 2p02 and doing research papers like I have done I believe that I have a grasp on what the digital humanities really are. 
 
 ## Blog post
 
