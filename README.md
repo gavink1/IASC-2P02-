@@ -69,6 +69,9 @@ CONS
 You may only be able to see one or two different types of information 
 Lack of detail 
 
+![](jpeg.1)
+
+
 ## solo presentation 
 
 [title of presentaion](reveal/index.html)
