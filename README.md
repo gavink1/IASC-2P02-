@@ -69,9 +69,9 @@ CONS
 You may only be able to see one or two different types of information 
 Lack of detail 
 
-![]((images/screenshot1.jpg)
+![](images/screenshot1.jpg)
 
-![]((images/screenshot2.jpg)
+![](images/screenshot2.jpg)
 
 
 ## solo presentation 
