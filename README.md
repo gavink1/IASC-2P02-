@@ -69,7 +69,7 @@ CONS
 You may only be able to see one or two different types of information 
 Lack of detail 
 
-![](destop/screenshot1.jpg)
+![](Screenshots/screenshot1.jpg)
 
 
 ## solo presentation 
